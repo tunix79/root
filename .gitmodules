@@ -1,0 +1,3 @@
+[submodule "plugins/child"]
+	path = plugins/child
+	url = https://github.com/chalstrick/child.git
