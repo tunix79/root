@@ -1,3 +1,6 @@
 [submodule "plugins/child"]
 	path = plugins/child
 	url = https://github.com/chalstrick/child.git
+[submodule "plugins/childNonPrj"]
+	path = plugins/childNonPrj
+	url = https://github.com/chalstrick/childNonPrj.git
